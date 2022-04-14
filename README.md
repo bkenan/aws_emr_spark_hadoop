@@ -20,3 +20,8 @@ Also, I've saved the list of those apps within "data outputs" folder into S3 buc
 
 Demo screenshots:
 
+![EMR](https://user-images.githubusercontent.com/53462948/163347219-3a80ff31-7be1-49c6-813a-13344346bf1f.png)
+
+![s3](https://user-images.githubusercontent.com/53462948/163347265-03f0e962-ea71-4554-86a0-1c16e5e31210.png)
+
+![partial outcome](https://user-images.githubusercontent.com/53462948/163347313-ed5cab29-e651-4fa4-b79e-0afb7487918e.png)
